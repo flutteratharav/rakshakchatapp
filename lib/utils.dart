@@ -13,6 +13,7 @@ Future<void> setupFirebase() async {
     options: DefaultFirebaseOptions.currentPlatform,
   );
 }
+//grgnibgbgbg
 
 Future<void> registerServices() async {
   final GetIt getIt = GetIt.instance;
